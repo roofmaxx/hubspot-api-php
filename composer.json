@@ -1,5 +1,5 @@
 {
-    "name": "hubspot/api-client",
+    "name": "roofmaxx/hubspot-api-php",
     "version": "4.0.0",
     "description": "Hubspot API client",
     "keywords": [
